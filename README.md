@@ -10,5 +10,5 @@
 ### downlaod diabetes.csv data set from here : [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indiansdiabetes-database)
 
 ## team members 
-####- [Noura Alhuthli]() 
-####- [Joud Alqrni]() 
+- [Noura Alhuthli]()
+- [Joud Alqrni]() 
