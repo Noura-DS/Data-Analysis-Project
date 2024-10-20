@@ -7,8 +7,14 @@ The primary objective is to identify patterns in customer purchases by determini
 ## How to Use the Project
 ### This project is built using Python.
 ### Ensure you have the following libraries installed:
-#### pandas, scikit-learn, matplotlib, seaborn,warnings
+#### google.colab to import drive so you can mount Google Drive to read the file from your drive
+#### pandas
+#### warnings
+#### matplotlib
+#### seaborn
+#### mlxtend.frequent_patterns to import apriori, association_rules
+
 #### use 
-### downlaod E-Commerce Retail data set from here : [E-commerce Data on Kaggle](https://www.kaggle.com/carrie1/ecommerce-data)
+### downlaod E-Commerce Retail data set from here : [E-commerce Data on Kaggle](https://www.kaggle.com/carrie1/ecommerce-data) then save it into your drive 
 
 
