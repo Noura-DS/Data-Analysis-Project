@@ -14,7 +14,7 @@ The primary objective is to identify patterns in customer purchases by determini
 #### seaborn
 #### mlxtend.frequent_patterns to import apriori, association_rules
 
-#### use 
+## use 
 ### downlaod E-Commerce Retail data set from here : [E-commerce Data on Kaggle](https://www.kaggle.com/carrie1/ecommerce-data) then save it into your drive 
 
 
