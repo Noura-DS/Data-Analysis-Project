@@ -3,7 +3,7 @@
 ## Project Description
 ### This project focuses on performing sentiment analysis using the Yelp Reviews Polarity dataset its contains 560,000 training samples and 38,000 testing samples, making it a valuable resource for text classification tasks.
 
-### The primary Objective her is to classify Yelp reviews into negative (class 1) or positive (class 2) based on the sentiment expressed in the text this analysis can provide insights into customer opinions, helping businesses improve their products and services.
+The primary Objective her is to classify Yelp reviews into negative (class 1) or positive (class 2) based on the sentiment expressed in the text this analysis can provide insights into customer opinions, helping businesses improve their products and services.
 
 ## How to Use the Project
 ### This project is built using Python.
